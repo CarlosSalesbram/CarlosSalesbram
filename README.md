@@ -1,5 +1,4 @@
-![logo](https://github.com/CarlosSalesbram/CarlosSalesbram)
-
+![logo](https://github.com/CarlosSalesbram/CarlosSalesbram/blob/main/senai-logo-3.png)
 
 ## Hi there 👋
 
